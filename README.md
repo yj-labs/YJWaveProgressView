@@ -3,17 +3,17 @@
 一款纯 Swift 实现的圆形水波进度控件，支持进度水波动画、刻度表盘、重力感应、富文本百分比和描述文案，适合电量、水位、容量、完成度等圆形进度展示场景。
 
 <p align="center">
-<a href="https://github.com/YongTaiSin/YJWaveProgressView"><img src="https://img.shields.io/badge/platform-iOS%2011.0%2B-ff69b5152950834.svg"></a>
-<a href="https://github.com/YongTaiSin/YJWaveProgressView"><img src="https://img.shields.io/badge/Swift-5-orange.svg"></a>
-<a href="https://github.com/YongTaiSin/YJWaveProgressView"><img src="https://img.shields.io/cocoapods/v/YJWaveProgressView.svg?style=flat"></a>
-<a href="https://github.com/YongTaiSin/YJWaveProgressView/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg?style=flat"></a>
+<a href="https://github.com/yj-labs/YJWaveProgressView"><img src="https://img.shields.io/badge/platform-iOS%2011.0%2B-ff69b5152950834.svg"></a>
+<a href="https://github.com/yj-labs/YJWaveProgressView"><img src="https://img.shields.io/badge/Swift-5-orange.svg"></a>
+<a href="https://github.com/yj-labs/YJWaveProgressView"><img src="https://img.shields.io/cocoapods/v/YJWaveProgressView.svg?style=flat"></a>
+<a href="https://github.com/yj-labs/YJWaveProgressView/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg?style=flat"></a>
 </p>
 
 ## Preview
 
 | 水波进度 | 刻度表盘 | 重力感应 |
 | --- | --- | --- |
-| <img src="https://github.com/YongTaiSin/YJWaveProgressView/blob/master/screenshots/%E6%B0%B4%E6%B3%A2.gif" width="220" alt="水波进度"> | <img src="https://github.com/YongTaiSin/YJWaveProgressView/blob/master/screenshots/%E5%B8%A6%E5%88%BB%E5%BA%A6.gif" width="220" alt="刻度表盘"> | <img src="https://github.com/YongTaiSin/YJWaveProgressView/blob/master/screenshots/%E9%87%8D%E5%8A%9B%E6%84%9F%E5%BA%94.gif" width="220" alt="重力感应"> |
+| <img src="https://github.com/yj-labs/YJWaveProgressView/blob/master/screenshots/%E6%B0%B4%E6%B3%A2.gif" width="220" alt="水波进度"> | <img src="https://github.com/yj-labs/YJWaveProgressView/blob/master/screenshots/%E5%B8%A6%E5%88%BB%E5%BA%A6.gif" width="220" alt="刻度表盘"> | <img src="https://github.com/yj-labs/YJWaveProgressView/blob/master/screenshots/%E9%87%8D%E5%8A%9B%E6%84%9F%E5%BA%94.gif" width="220" alt="重力感应"> |
 
 ## Requirements
 
@@ -182,7 +182,7 @@ waveView.scaleStyle = .clock
 
 ## Contact
 
-- Email: jellybilly@foxmail.com
+- Email: yongtaisin@qq.com
 
 ## License
 
