@@ -7,28 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C71C617821AF8D5500EC04EE /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C71C617721AF8D5500EC04EE /* AppDelegate.m */; };
-		C71C617B21AF8D5500EC04EE /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C71C617A21AF8D5500EC04EE /* ViewController.m */; };
+		C71C617821AF8D5500EC04EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C71C617721AF8D5500EC04EE /* AppDelegate.swift */; };
+		C71C617B21AF8D5500EC04EE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C71C617A21AF8D5500EC04EE /* ViewController.swift */; };
 		C71C617E21AF8D5500EC04EE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C71C617C21AF8D5500EC04EE /* Main.storyboard */; };
 		C71C618021AF8D5700EC04EE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C71C617F21AF8D5700EC04EE /* Assets.xcassets */; };
 		C71C618321AF8D5700EC04EE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C71C618121AF8D5700EC04EE /* LaunchScreen.storyboard */; };
-		C71C618621AF8D5700EC04EE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C71C618521AF8D5700EC04EE /* main.m */; };
-		C71C619321AF90BD00EC04EE /* YJWaveProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = C71C619221AF90BD00EC04EE /* YJWaveProgressView.m */; };
+		C71C619321AF90BD00EC04EE /* YJWaveProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C71C619221AF90BD00EC04EE /* YJWaveProgressView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		C71C617321AF8D5500EC04EE /* YJWaveProgressViewExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YJWaveProgressViewExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		C71C617621AF8D5500EC04EE /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		C71C617721AF8D5500EC04EE /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		C71C617921AF8D5500EC04EE /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		C71C617A21AF8D5500EC04EE /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		C71C617721AF8D5500EC04EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		C71C617A21AF8D5500EC04EE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		C71C617D21AF8D5500EC04EE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		C71C617F21AF8D5700EC04EE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C71C618221AF8D5700EC04EE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C71C618421AF8D5700EC04EE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C71C618521AF8D5700EC04EE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		C71C619121AF90BD00EC04EE /* YJWaveProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YJWaveProgressView.h; sourceTree = "<group>"; };
-		C71C619221AF90BD00EC04EE /* YJWaveProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YJWaveProgressView.m; sourceTree = "<group>"; };
+		C71C619221AF90BD00EC04EE /* YJWaveProgressView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = YJWaveProgressView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,15 +57,12 @@
 			isa = PBXGroup;
 			children = (
 				C71C619021AF90BD00EC04EE /* YJWaveProgressView */,
-				C71C617621AF8D5500EC04EE /* AppDelegate.h */,
-				C71C617721AF8D5500EC04EE /* AppDelegate.m */,
-				C71C617921AF8D5500EC04EE /* ViewController.h */,
-				C71C617A21AF8D5500EC04EE /* ViewController.m */,
+				C71C617721AF8D5500EC04EE /* AppDelegate.swift */,
+				C71C617A21AF8D5500EC04EE /* ViewController.swift */,
 				C71C617C21AF8D5500EC04EE /* Main.storyboard */,
 				C71C617F21AF8D5700EC04EE /* Assets.xcassets */,
 				C71C618121AF8D5700EC04EE /* LaunchScreen.storyboard */,
 				C71C618421AF8D5700EC04EE /* Info.plist */,
-				C71C618521AF8D5700EC04EE /* main.m */,
 			);
 			path = YJWaveProgressViewExample;
 			sourceTree = "<group>";
@@ -78,8 +70,7 @@
 		C71C619021AF90BD00EC04EE /* YJWaveProgressView */ = {
 			isa = PBXGroup;
 			children = (
-				C71C619121AF90BD00EC04EE /* YJWaveProgressView.h */,
-				C71C619221AF90BD00EC04EE /* YJWaveProgressView.m */,
+				C71C619221AF90BD00EC04EE /* YJWaveProgressView.swift */,
 			);
 			path = YJWaveProgressView;
 			sourceTree = SOURCE_ROOT;
@@ -154,10 +145,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C71C617B21AF8D5500EC04EE /* ViewController.m in Sources */,
-				C71C619321AF90BD00EC04EE /* YJWaveProgressView.m in Sources */,
-				C71C618621AF8D5700EC04EE /* main.m in Sources */,
-				C71C617821AF8D5500EC04EE /* AppDelegate.m in Sources */,
+				C71C617B21AF8D5500EC04EE /* ViewController.swift in Sources */,
+				C71C619321AF90BD00EC04EE /* YJWaveProgressView.swift in Sources */,
+				C71C617821AF8D5500EC04EE /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -303,7 +293,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = VSHF79ZC2C;
 				INFOPLIST_FILE = YJWaveProgressViewExample/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -311,6 +301,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.jeremiah.YJWaveProgressViewExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
@@ -323,7 +314,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = VSHF79ZC2C;
 				INFOPLIST_FILE = YJWaveProgressViewExample/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -331,6 +322,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.jeremiah.YJWaveProgressViewExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
